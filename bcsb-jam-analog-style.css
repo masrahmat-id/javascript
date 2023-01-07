@@ -145,14 +145,14 @@ background-size: auto;
 }
 
 .segments {
-  position: fixed;
+  position: absolute;
   itop: 50%;
   left: 50%;
   transform: translate(-50%, -100%);
 }
 
 .segment {
-  position: fixed;
+  position: absolute;
 
   top: 0;
 
